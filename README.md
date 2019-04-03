@@ -10,6 +10,7 @@ The data file 'Reviews.csv' should be put in the same directory with the file 'h
 ## Part 2
 
 - hw1-part2 file: `hw1-part2.ipynb`
-- data file: `googleplaystore.csv`, `googleplaystore_user_reviews.csv`
+- data file: `googleplaystore.csv`
   - download website: https://www.kaggle.com/lava18/google-play-store-apps
 
+The data file 'googleplaystore.csv' should be put in the same directory with the file 'hw1-part2.ipynb'.
